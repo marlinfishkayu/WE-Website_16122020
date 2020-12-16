@@ -71,6 +71,7 @@ var arrLang = {
       'index_slider2_h2': 'This game is fire, check it out!',
       'index_slider3_h2': 'Dare to be the next winner!',
       'learnMore': 'Learn More',
+      'tryOurGame': 'try our game',
 
       //index_section1_games
       'index_sect1_Game': 'GAMES',
@@ -102,15 +103,12 @@ var arrLang = {
       'index_sect3_News1_date': '07 JAN 2021',
       'index_sect3_News1_h3': 'The Phil-Asia Gaming Expo (PAGE)',
       'index_sect3_News2_date': '29-31 JUL 2021',
-      'index_sect3_News2_h3': 'World Trade Center (#3110) & SMX Convention Center (#1100)Manila, Philippines',
+      'index_sect3_News2_h3': 'SMX Convention Center (#1100) Manila, Philippines',
       'index_sect3_News3_date': '01 JAN 2021',
       'index_sect3_News3_h3': '2021 Welcoming Lottery',
-      'index_sect3_News4_date': '07 JAN 2021',
-      'index_sect3_News4_h3': 'The Phil-Asia Gaming Expo (PAGE)',
-      'index_sect3_News5_date': '29-31 JUL 2021',
-      'index_sect3_News5_h3': 'World Trade Center (#3110) & SMX Convention Center (#1100)Manila, Philippines',
-      'index_sect3_News6_date': '01 JAN 2021',
-      'index_sect3_News6_h3': '2021 Welcoming Lottery',
+      'index_sect4_News4_date': '18 Dec 2020',
+      'index_sect3_News4_h3': 'Blockchain games launched!',
+      
     },
 
     // 繁體中文
@@ -188,6 +186,7 @@ var arrLang = {
       'index_slider2_h2': '真人視訊遊戲 - ON AIR！',
       'index_slider3_h2': '下一個贏家可能是你！',
       'learnMore': '了解更多',
+      'tryOurGame': '試玩遊戲',
       
       //index_section1_games
       'index_sect1_Game': '遊戲',
@@ -216,18 +215,15 @@ var arrLang = {
       'ReadMore': '了解更多',
       'index_sect3_WhatsNews': "最新消息",
       'index_sect3_p': '搶先收到我們的最新消息。',
-      'index_sect3_News1_date': '2021年7月7日',
+      'index_sect3_News1_date': '2021年1月7日',
       'index_sect3_News1_h3': 'PAGE亞博會2021',
       'index_sect3_News2_date': '2021年7月29-31日',
-      'index_sect3_News2_h3': 'World Trade Center (#3110) & SMX Convention Center (#1100)馬尼拉，菲律賓',
+      'index_sect3_News2_h3': 'SMX Convention Center (#1100) 馬尼拉，菲律賓',
       'index_sect3_News3_date': '2021年1月1日',
       'index_sect3_News3_h3': '喜迎2021牛年開運彩票開始啦！',
-      'index_sect3_News4_date': '2021年1月1日',
-      'index_sect3_News4_h3': 'PAGE亞博會2021',
-      'index_sect3_News5_date': '2021年1月1日',
-      'index_sect3_News5_h3': 'PAGE亞博會2021',
-      'index_sect3_News6_date': '2021年1月1日',
-      'index_sect3_News6_h3': 'PAGE亞博會2021',
+      'index_sect4_News4_date': '2020年12月18日',
+      'index_sect3_News4_h3': '鏈接世界，玩得更嗨!',
+
     },
 
     // 简体中文
@@ -305,6 +301,7 @@ var arrLang = {
       'index_slider2_h2': '真人视讯游戏 - ON AIR！',
       'index_slider3_h2': '下一个赢家可能是你！',
       'learnMore': '了解更多',
+      'tryOurGame': '试玩游戏',
       
       //index_section1_games
       'index_sect1_Game': '游戏',
@@ -333,18 +330,14 @@ var arrLang = {
       'ReadMore': '了解更多',
       'index_sect3_WhatsNews': "最新消息",
       'index_sect3_p': '抢先收到我们的最新消息。',
-      'index_sect3_News1_date': '2021年7月7日',
+      'index_sect3_News1_date': '2021年1月7日',
       'index_sect3_News1_h3': 'PAGE亚博会2021',
       'index_sect3_News2_date': '2021年7月29-31日',
-      'index_sect3_News2_h3': 'World Trade Center (#3110) & SMX Convention Center (#1100)马尼拉，菲律宾',
+      'index_sect3_News2_h3': 'SMX Convention Center (#1100) 马尼拉，菲律宾',
       'index_sect3_News3_date': '2021年1月1日',
       'index_sect3_News3_h3': '喜迎2021牛年开运彩票开始啦！',
-      'index_sect3_News4_date': '2021年1月1日',
-      'index_sect3_News4_h3': 'PAGE亚博会2021',
-      'index_sect3_News5_date': '2021年1月1日',
-      'index_sect3_News5_h3': 'PAGE亚博会2021',
-      'index_sect3_News6_date': '2021年1月1日',
-      'index_sect3_News6_h3': 'PAGE亚博会2021',
+      'index_sect3_News4_date': '2020年12月18日',
+      'index_sect3_News4_h3': '链接世界，玩得更嗨!',
     }
   };
 
@@ -356,7 +349,7 @@ var arrImg = {
       'WE_logo': 'images/icon/en/logo.svg',
       //live game
       'col_1': 'images/index/en/col1_expand-icon_x1.png 500w,images/index/en/col1_expand-icon_x2.png 1000w',
-      'col_2': 'images/index/en/col2_expand-icon_x1.png 500w,images/index/en/col2_expand-icon_x2.png 1000w',
+      'col_2': 'images/index/en/index_ourGames_col2_livegame_x1.jpg 500w,images/index/en/index_ourGames_col2_livegame_x2.jpg 1000w',
       'col_3': 'images/index/en/index_ourGames_col3_livegame_x1.jpg 500w,images/index/en/index_ourGames_col3_livegame_x2.jpg 1000w',
       'col_4': 'images/index/en/index_ourGames_col4_livegame_x1.jpg 500w,images/index/en/index_ourGames_col4_livegame_x2.jpg 1000w',
     }],
@@ -365,7 +358,7 @@ var arrImg = {
       'WE_logo': 'images/icon/tc/logo.svg',
       //live game
       'col_1': 'images/index/tc/col1_expand-icon_x1.png 500w,images/index/tc/col1_expand-icon_x1.png 1000w',
-      'col_2': 'images/index/tc/col2_expand-icon_x1.png 500w,images/index/tc/col2_expand-icon_x1.png 1000w',
+      'col_2': 'images/index/tc/index_ourGames_col2_livegame_x1.jpg 500w,images/index/tc/index_ourGames_col2_livegame_x2.jpg 1000w',
       'col_3': 'images/index/tc/index_ourGames_col3_livegame_x1.jpg 500w,images/index/tc/index_ourGames_col3_livegame_x2.jpg 1000w',
       'col_4': 'images/index/tc/index_ourGames_col4_livegame_x1.jpg 500w,images/index/tc/index_ourGames_col4_livegame_x2.jpg 1000w',
     }],
@@ -374,7 +367,7 @@ var arrImg = {
       'WE_logo': 'images/icon/sc/logo.svg',
       //live game
       'col_1': 'images/index/sc/col1_expand-icon_x1.png 500w,images/index/sc/col1_expand-icon_x1.png 1000w',
-      'col_2': 'images/index/sc/col2_expand-icon_x1.png 500w,images/index/sc/col2_expand-icon_x1.png 1000w',
+      'col_2': 'images/index/sc/index_ourGames_col2_livegame_x1.jpg 500w,images/index/sc/index_ourGames_col2_livegame_x2.jpg 1000w',
       'col_3': 'images/index/sc/index_ourGames_col3_livegame_x1.jpg 500w,images/index/sc/index_ourGames_col3_livegame_x2.jpg 1000w',
       'col_4': 'images/index/sc/index_ourGames_col4_livegame_x1.jpg 500w,images/index/sc/index_ourGames_col4_livegame_x2.jpg 1000w',
    }]

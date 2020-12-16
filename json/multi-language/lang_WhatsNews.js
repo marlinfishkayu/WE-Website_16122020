@@ -55,9 +55,9 @@ var arrLang = {
     'input_email':'Please enter your email address here',
 
     //Whats New
-    'slide_date' : 'May 23, 2020',
-    'slide_event' : 'The Phil-Asia Gaming Expo (PAGE)',
-    'slide_detail' : 'A Grand Debut at P.A.G.E. the largest Asia’s gaming show! Let’s meet up!',
+    'slide_date' : '18 Dec 2020',
+    'slide_event' : 'Blockchain games launched!',
+    'slide_detail' : 'Link up the world, play safe!',
     'detail-btn' : 'DETAILS',
     //Filter
     'Filter_games' : 'Games',
@@ -68,7 +68,7 @@ var arrLang = {
     'timeline_game_col1' : 'The Phil-Asia Gaming Expo (PAGE)',
     'timeline_game_col2' : 'ICE Totally Gaming',
     'timeline_game_col3' : '2021 Welcoming Lottery',
-    'timeline_game_col4' : 'XMAS X DEALERS',
+    'timeline_game_col4' : 'Blockchain games launched!',
     'load_more' : 'load more',
     
 
@@ -133,9 +133,9 @@ var arrLang = {
     'input_email':'請在此處輸入你的電子郵件地址',
 
     //Whats New
-    'slide_date' : 'May 23, 2020',
-    'slide_event' : 'PAGE亞博會2021',
-    'slide_detail' : 'WE 在亞洲最大博奕娛樂展（P.A.G.E.）隆重登場！我們見面吧！',
+    'slide_date' : '2020年12月18日',
+    'slide_event' : '鏈接世界，玩得更嗨!',
+    'slide_detail' : '區塊鏈乃高端及極具創造力的嶄新技術，以安全可靠的方式傳遞資訊。',
     'detail-btn' : '閱讀更多',
     //Filter
     'Filter_games' : '遊戲',
@@ -146,7 +146,7 @@ var arrLang = {
     'timeline_game_col1' : 'PAGE亞博會2021',
     'timeline_game_col2' : 'ICE Totally Gaming',
     'timeline_game_col3' : '喜迎2021牛年開運彩票開始啦！',
-    'timeline_game_col4' : 'XMAS X DEALERS',
+    'timeline_game_col4' : '鏈接世界，玩得更嗨!',
     'load_more' : '更多',
   },
 
@@ -209,9 +209,9 @@ var arrLang = {
     'input_email':'请在此处输入你的电子邮件地址',
 
     //Whats New
-    'slide_date' : 'May 23, 2020',
-    'slide_event' : 'PAGE亚博会2021',
-    'slide_detail' : 'WE 在亚洲最大博奕娱乐展（P.A.G.E.）隆重登场！我们见面吧！',
+    'slide_date' : '2020年12月18日',
+    'slide_event' : '链接世界，玩得更嗨!',
+    'slide_detail' : '区块链乃高端及极具创造力的崭新技术，以安全可靠的方式传递资讯。',
     'detail-btn' : '阅读更多',
     //Filter
     'Filter_games' : '游戏',
@@ -222,7 +222,7 @@ var arrLang = {
     'timeline_game_col1' : 'PAGE亚博会2021',
     'timeline_game_col2' : 'ICE Totally Gaming',
     'timeline_game_col3' : '喜迎2021牛年开运彩票开始啦！',
-    'timeline_game_col4' : 'XMAS X DEALERS',
+    'timeline_game_col4' : '链接世界，玩得更嗨!',
     'load_more' : '更多',
   }
 };
